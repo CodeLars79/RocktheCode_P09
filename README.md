@@ -39,11 +39,11 @@ The environment variables are set up in a .env file
 - Method: GET
 - Description: Fetches all Funkos stored in the database.
 
-## Web Scraping ✨
+## Web Scraping 📥
 - To scrape Funko data from the specified URL: *npm run scrap*
 - The scraped data will be saved in a file called funkos.json.
 
-## Project Structure  
+## Project Structure 📂 
 ![project09Structure](https://github.com/user-attachments/assets/4857a0e4-fc8f-46d7-8209-968e520c510f)
 
 ## Dependencies
