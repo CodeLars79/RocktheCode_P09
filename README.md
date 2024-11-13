@@ -58,6 +58,9 @@ The environment variables are set up in a .env file
 - Ensure you have nodemon installed globally (if not, run npm install -g nodemon).
 - Use *npm run dev* to start the development server with auto-reload.
 
+## Credits ✨
+Developed by: *Lars Sørensen*
+
 ### ENJOY! 💙
 
   
